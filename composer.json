@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-             "StrUtil": "src/"
+             "StrUtilx": "src/"
          }
     },
     "require": {

@@ -1,11 +1,11 @@
 <?php
 /**
- * Created by Pangodream.
- * Date: 14/04/2019
- * Time: 18:50
+ * Created by AJAY.
+ * Date: 13/09/2022
+ * Time: 20:00
  */
 
-namespace StrUtil;
+namespace StrUtilx;
 
 
 class Counter
